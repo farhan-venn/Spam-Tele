@@ -1,0 +1,1 @@
+https://api.telegram.org/bot7156614633:AAEccweUJv-ttSka3mH8wS45usUlpRW4FbqgT8xQ/sendSticker?chat_id=2113742623
